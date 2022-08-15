@@ -18,3 +18,10 @@ specialized formula known as the Cost function denoted by J(θ).
 The Cost function is a function of θ0 and θ1 (in multivariate cases or cases of higher degree dependencies, we may have more 
 parameters θ2, θ3, etc.) using the Mean Square Error (MSE) technique. This is given by:
 
+![Screenshot 2022-08-15 at 11 37 56 AM](https://user-images.githubusercontent.com/92638241/184585233-332b4b2e-668b-4da7-96d9-5fc6b0c32003.png)
+
+Our objective is to minimize the value of the Cost Function. We do this by the Gradient Descent Algorithm. 
+
+![Screenshot 2022-08-15 at 12 21 41 PM](https://user-images.githubusercontent.com/92638241/184589461-136848ca-b848-4ea1-9649-a1d365766415.png)
+
+Gradient Descent is an iterative optimization algorithm used to determine the zero gradient minima of a given function.
